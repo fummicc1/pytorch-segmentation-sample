@@ -10,3 +10,5 @@ venv
 .venv
 data/
 *.out
+*.pth
+*.pt
