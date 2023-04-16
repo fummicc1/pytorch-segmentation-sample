@@ -1,0 +1,12 @@
+*.tar.gz
+*.tar
+*.zip
+*.jpeg
+*.jpg
+*.png
+images/
+annotations/
+venv
+.venv
+data/
+*.out

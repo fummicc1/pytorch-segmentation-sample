@@ -1,9 +1,4 @@
-## 使い方
+# 参考にしたサイト
 
-1. Dockerfileとdocker-compose.ymlファイルをコピー
-
-2. 以下を実行
-
-```
-docker compose up -d --build
-```
+- https://note-tech.com/python_segmentation/#toc4
+- https://github.com/qubvel/segmentation_models.pytorch/blob/master/examples/binary_segmentation_intro.ipynb
